@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beeevita
 - 👀 I’m interested in 🎵, ☕️
-- 🌱 I’m currently learning Artificial Intelligence in THU.
-- 💞️ I’m looking to collaborate on NLP (Dialogue generation)
-- 📫 How to reach me: gqy22@mails.tsinghua.edu.cn
+- 🌱 I’m currently an M.S. student at THU.
+- 💞️ I’m looking to collaborate on NLP (Large Language Models, Prompt Learning, etc.)
+- 📫 How to reach me: evitamine4ever@gmail.com
 
 <!---
 beeevita/beeevita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
